@@ -1,0 +1,32 @@
+header {
+    color: #259;
+    background-color: azure;
+    margin: 0%;
+}
+svg {
+    size: 1px;
+}
+h1{
+    font-size: 3em;
+    text-align: center;
+}
+h4  {
+    text-align: center;
+}
+
+p {
+    font-weight: bolder;
+    margin: 0%;
+    text-align: center;
+
+}
+img {
+    size-adjust: ;
+}
+body  {
+    margin-top: 0%;
+}
+li {
+    display: inline;
+    font-size: medium;
+}
